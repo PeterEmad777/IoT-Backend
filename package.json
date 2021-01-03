@@ -1,0 +1,22 @@
+{
+  "name": "networksproject",
+  "version": "1.0.0",
+  "description": "A server that connects IoT devices to the controlling website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterEmad777/IoT-Backend.git"
+  },
+  "author": "Malak Sowelem, Khalid Magdy, Peter Emad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterEmad777/IoT-Backend/issues"
+  },
+  "homepage": "https://github.com/PeterEmad777/IoT-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
